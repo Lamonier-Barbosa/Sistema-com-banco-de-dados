@@ -58,4 +58,4 @@ Este projeto é aberto para contribuições. Sinta-se à vontade para fazer um f
 ## Licença 
 <img src="https://badgen.net/github/license/micromatch/micromatch">
 
-Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo `LICENSE.md` para mais detalhes.
+Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
